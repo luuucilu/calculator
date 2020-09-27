@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.container {
+    .buttons-container {
+
+        .first {
+            display: flex;
+
+        }
+
+        .second {
+            display: flex;
+        }
+
+        .third {
+            display: flex;
+        }
+
+        .forth {
+            display: flex;
+        }
+
+    }
+}

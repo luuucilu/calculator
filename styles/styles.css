@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: "Press Start 2P", cursive;
+}
+
+.container .buttons-container .first {
+  display: flex;
+}
+.container .buttons-container .second {
+  display: flex;
+}
+.container .buttons-container .third {
+  display: flex;
+}
+.container .buttons-container .forth {
+  display: flex;
+}
+
+/*# sourceMappingURL=styles.css.map */
